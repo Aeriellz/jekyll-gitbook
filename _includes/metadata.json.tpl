@@ -10,7 +10,7 @@
         },
         "pluginsConfig": {
             "expandable-chapter-small2": {
-                "articlesExpand": true,
+                "articlesExpand": false,
             },
             "fontsettings": {
                 "family": "sans",
